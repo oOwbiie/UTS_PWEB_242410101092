@@ -22,7 +22,7 @@ Halaman utama setelah login. Menampilkan ringkasan statistik (total catatan, rat
 ---
  
 ### Pengelolaan Mood & Energi
-![Dashboard](public/image/ss-pengelolaan.png)
+![Pengelolaan MoodFlow](public/image/ss-pengelolaan.png)
  
 Halaman inti untuk mencatat kondisi harian. Pengguna memilih level mood (1–5) dan energi (1–5) menggunakan antarmuka emoji interaktif, memilih aktivitas utama, dan menambahkan catatan opsional. Seluruh histori catatan ditampilkan secara real-time di sisi kanan dengan progress bar visual.
  
