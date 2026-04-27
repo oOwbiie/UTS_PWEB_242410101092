@@ -15,14 +15,14 @@ Dengan data yang terkumpul, sistem secara otomatis memberikan **rekomendasi kegi
 ## 🖥️ Tampilan Aplikasi
  
 ### Dashboard
-![Dashboard](public/image/ss-dashboard.png)
+![Dashboard](public/image/ss-dashboard.png.png)
  
 Halaman utama setelah login. Menampilkan ringkasan statistik (total catatan, rata-rata mood & energi, hari produktif), rekomendasi kegiatan yang dipersonalisasi, grafik line chart pola mood & energi 7 input terakhir, serta tips produktivitas harian.
  
 ---
  
 ### Pengelolaan Mood & Energi
-![Pengelolaan MoodFlow](public/image/ss-pengelolaan.png)
+![Pengelolaan MoodFlow](public/image/ss-pengelolaan.png.png)
  
 Halaman inti untuk mencatat kondisi harian. Pengguna memilih level mood (1–5) dan energi (1–5) menggunakan antarmuka emoji interaktif, memilih aktivitas utama, dan menambahkan catatan opsional. Seluruh histori catatan ditampilkan secara real-time di sisi kanan dengan progress bar visual.
  
